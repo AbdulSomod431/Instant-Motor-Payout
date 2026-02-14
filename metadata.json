@@ -1,0 +1,8 @@
+
+{
+  "name": "Instant Motor Payouts",
+  "description": "AI-powered vehicle damage assessment tool that provides instant repair cost estimates and claim processing using advanced computer vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
